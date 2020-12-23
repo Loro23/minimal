@@ -4,6 +4,8 @@ layout: default
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
+hallo leute das hier wird der content.
+
 [Link to another page](./another-page.html).
 
 There should be whitespace between paragraphs.
